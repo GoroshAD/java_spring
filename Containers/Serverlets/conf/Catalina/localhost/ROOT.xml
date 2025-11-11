@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Context docBase="C:\Users\nikto\IdeaProjects\java_spring\Containers\Serverlets">
+  <Resources cacheMaxSize="10240">
+    <PreResources base="C:/Users/nikto/IdeaProjects/java_spring/Containers/Serverlets/target/classes" className="org.apache.catalina.webresources.DirResourceSet" webAppMount="/WEB-INF/classes"/>
+    <PostResources base="C:/Users/nikto/.m2/repository/com/google/code/gson/gson/2.8.6/gson-2.8.6.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/gson-2.8.6.jar"/>
+  </Resources>
+</Context>
